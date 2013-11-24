@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_txt">Hangman is a word game where in Player 1 suggests a word and hint to player 2. Player 2 guesses the word using the hint
+    by clicking each of the letters.For each incorrect letter that is guessed a part of the hangman figure is drawn.Player 2 wins the game if he
+    guesses the word correctly else he loses </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
